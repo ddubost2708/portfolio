@@ -1,107 +1,53 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Damien Dubost",
+    "label": "Développeur fullstack junior",
+    "image": "/me_avatar.png",
+    "email": "ddubost2708@icloud.com",
+    "phone": "(+33) 06 70 39 61 32",
+    "url": "https://damiendubost.dev",
+    "summary": "Développeur fullstack junior prêt à développer !",
+    "theme": "blue",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "198 Rue Grange Bourdon",
+      "postalCode": "69870",
+      "city": "Grandris",
+      "countryCode": "FR",
+      "region": "France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ddubost2708",
+        "url": "https://linkedin.com/in/ddubost2708"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ddubost2708",
+        "url": "https://github.com/ddubost2708"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
+      "name": "Effet B",
+      "position": "Dévelopeur d'application en alternance",
+      "location_type": "Sur site",
+      "location": "Villeurbanne, France",
+      "url": "https://effetb.com",
+      "startDate": "2024-09-01",
+      "endDate": "2025-10-31",
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "highlights": ["Improved website performance by optimizing code"],
       "responsibilities": [
         "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
         "Participated in code reviews and contributed to improving coding standards within the team."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Migration d'un site d'association, résolution de ticket pour le support Studea."
       ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
+      "skills": ["PHP", "Symfony", "GitLab", "Docker", "SQL"]
     }
   ],
   "volunteer": [
@@ -119,20 +65,20 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Concepteur et Développeur d'Application",
+      "url": false,
+      "area": "Human Booster",
+      "studyType": "Titre professionel (niveau 6)",
+      "startDate": "2023-04-01",
+      "endDate": "2024-05-01",
+      "score": "",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
+      "institution": "Développeur ",
       "url": "https://techinstitute.edu",
       "area": "Software Engineering",
       "studyType": "Master",
@@ -160,9 +106,9 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
+      "name": "Titre professionnelle développeur web",
+      "date": "2024-05-01",
+      "issuer": "Human Booster",
       "url": "https://onlineuniversity.com/certificates/fullstack"
     }
   ],
@@ -294,12 +240,12 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Natif"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "English",
+      "fluency": "Intermediaire"
     }
   ],
   "interests": [
@@ -319,18 +265,18 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "Portfolio personnel",
+      "isActive": true,
+      "description": "Un portfolio personnel présentant mes expériences et formations",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Réaliser avec React et Tailwind CSS",
+        "Inclut un blog et un formulaire de contact"
       ],
-      "url": "https://johndoe.dev",
+      "url": "https://damiendubost.dev",
       "github": "https://github.com"
     },
     {
-      "name": "Weather App",
+      "name": "Studea",
       "isActive": true,
       "description": "A web application that provides weather information for any location.",
       "highlights": [
@@ -340,7 +286,7 @@
       "url": "https://weatherapp.com"
     },
     {
-      "name": "Task Manager",
+      "name": "APARR",
       "isActive": true,
       "description": "A simple task management app to keep track of daily tasks.",
       "highlights": [
@@ -351,7 +297,7 @@
       "github": "https://github.com"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Electricity Business",
       "isActive": false,
       "description": "An online store built with Next.js and Stripe for payment processing.",
       "highlights": [
