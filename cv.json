@@ -2,7 +2,7 @@
   "basics": {
     "name": "Damien Dubost",
     "label": "Développeur fullstack junior",
-    "image": "/me_avatar_1.png",
+    "image": "profil_damien.png",
     "email": "ddubost2708@icloud.com",
     "phone": "(+33) 06 70 39 61 32",
     "url": "https://damiendubost.dev",
@@ -98,30 +98,6 @@
   ],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Human Booster",
-      "url": "https://humanbooster.com",
-      "area": "Distanciel",
-      "studyType": "Titre Professionnel Concepteur Développeur d'Application (niveau 6)",
-      "startDate": "2024-09-01",
-      "endDate": "2025-10-31"
-    },
-    {
-      "institution": "Human Booster",
-      "url": "https://humanbooster.com",
-      "area": "Villeurbanne, France",
-      "studyType": "Titre Professionnel Développeur Web et Web Mobile (niveau 5)",
-      "startDate": "2023-04-01",
-      "endDate": "2024-05-31"
-    },
-    {
-      "institution": "INSTIC",
-      "url": "https://instic.fr/",
-      "area": "Lyon, France",
-      "studyType": "Titre Professionnel en Conception industrielle de Systèmes Mécaniques",
-      "startDate": "2019-09-01",
-      "endDate": "2020-08-31"
-    }
   ],
   "certificates": [
     {
@@ -130,7 +106,7 @@
       "issuer": "Human Booster"
     },
     {
-      "name": "Titre professionnel Développeur Web et Web Mobile (niveau 5)",
+      "name": "Titre Professionnel Développeur Web et Web Mobile (niveau 5)",
       "date": "2024-05-31",
       "issuer": "Human Booster"
     },

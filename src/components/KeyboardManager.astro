@@ -121,7 +121,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 	const footerButtons = document.querySelectorAll(".footer-button");
 	footerButtons.forEach((button) => {
 		button.addEventListener("click", () => {
-			var event = new KeyboardEvent("keydown", {
+			const event = new KeyboardEvent("keydown", {
 				key: "K",
 				code: "KeyK",
 				keyCode: 75,
@@ -176,7 +176,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 	footer {
 		@apply bg-skin-button-accent;
 		position: fixed;
-		bottom: 0px;
+		bottom: 0;
 		width: 100%;
 		padding-block: 8px;
 		text-align: center;
@@ -199,7 +199,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 		--hotkeypad-bg-kbd: rgb(var(--muted));
 		--hotkeypad-bg-backdrop: rgb(var(--color-fill));
 		--hotkeypad-bg-container: rgb(var(--color-fill));
-		--hotkeypad-bg-item-hover: rgba(var(--color-text), 20%);
+		--hotkeypad-bg-item-hover: rgba(var(--color-text-base), 20%);
 		--hotkeypad-border-container: rgb(var(--muted));
 		--hotkeypad-border-container-hover: rgb(var(--color-fill));
 		--hotkeypad-fg-muted: rgb(var(--muted));
