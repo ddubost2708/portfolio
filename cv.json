@@ -48,7 +48,7 @@
         "Participation aux revues de code et amélioration des standards de codage au sein de l'équipe"
       ],
       "achievements": [
-        "Migration réussie d'un site d'association",
+        "Migration réussie de APARR (site d'association du cinéma)",
         "Résolution efficace de tickets pour le support Studea"
       ],
       "skills": ["PHP", "Symfony", "GitLab", "Docker", "SQL"]
@@ -59,8 +59,8 @@
       "location_type": "Sur site",
       "location": "Saint Clément sur Valsonne, France",
       "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2022-12-31",
+      "startDate": "",
+      "endDate": "2022",
       "summary": "Opérateur spécialisé dans l'industrie agroalimentaire",
       "highlights": [],
       "responsibilities": [],
@@ -75,7 +75,7 @@
       "url": "",
       "startDate": "2019-09-01",
       "endDate": "2020-08-31",
-      "summary": "Alternance en conception industrielle de systèmes mécaniques",
+      "summary": "Conception et réalisation de moule en aluminium pour de la cosmétique, automobile, alimentaire.",
       "highlights": [],
       "responsibilities": [],
       "achievements": [],
@@ -87,9 +87,9 @@
       "location_type": "Sur site",
       "location": "Chambost-Allières, France",
       "url": "",
-      "startDate": "2018-01-01",
-      "endDate": "2018-12-31",
-      "summary": "Contrôle qualité et métrologie",
+      "startDate": "",
+      "endDate": "2018",
+      "summary": "Contrôle qualité de pièces plastique pour l'automobile et médical.",
       "highlights": [],
       "responsibilities": [],
       "achievements": [],
@@ -111,7 +111,7 @@
       "issuer": "Human Booster"
     },
     {
-      "name": "Titre Professionnel en Conception industrielle de Systèmes Mécaniques",
+      "name": "Titre Professionnel Conception industrielle de Systèmes Mécaniques (niveau 6)",
       "date": "2020-10-01",
       "issuer": "INSTIC"
     }
@@ -205,13 +205,9 @@
       ]
     },
     {
-      "name": "Spring Boot",
+      "name": "Spring",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Java Framework"
-      ]
+      "keywords": ["Web Development", "Backend", "Java Framework"]
     },
     {
       "name": "MySQL",
@@ -265,13 +261,10 @@
   "references": [],
   "projects": [
     {
-      "name": "Portfolio personnel",
+      "name": "Portfolio",
       "isActive": true,
       "description": "Un portfolio personnel présentant mes expériences et formations",
-      "highlights": [
-        "Réalisé avec React et Tailwind CSS",
-        "Inclut un blog et un formulaire de contact"
-      ],
+      "highlights": ["Réalisé avec React et Tailwind CSS"],
       "url": "https://damiendubost.dev",
       "github": "https://github.com/ddubost2708"
     },
@@ -281,7 +274,7 @@
       "description": "Plateforme de gestion de suivi d'alternants",
       "highlights": [
         "Support technique et résolution de tickets",
-        "Maintenance et améliorations"
+        "Maintenance et améliorations du back office"
       ],
       "url": "https://www.studea.fr/"
     },
@@ -290,7 +283,7 @@
       "isActive": true,
       "description": "Site d'actualité de films entre amateurs du cinéma",
       "highlights": [
-        "Migration complète du site",
+        "Migration du back de Symfony 2.7 à 6.4",
         "Modernisation de l'infrastructure"
       ],
       "url": "https://www.aparr.org/"
